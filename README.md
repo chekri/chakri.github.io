@@ -1,2 +1,2 @@
 # Siva Prasad Chakri Dhanakoti
-# Ph D in Mathematics
+## Ph D in Mathematics
